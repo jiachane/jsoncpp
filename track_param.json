@@ -1,0 +1,16 @@
+{
+   "TRACK_PARAM" : {
+      "A_A" : 1,
+      "B_B" : 2,
+      "IF_ZOOM" : 0,
+      "PAN" : {
+         "speed" : "default"
+      },
+      "STOP_DIRECTION" : "default",
+      "TARGET_RETENTION_TIME" : 300,
+      "TILT" : {
+         "speed" : "median"
+      },
+      "ZOOM_RATIO" : 3.0
+   }
+}
